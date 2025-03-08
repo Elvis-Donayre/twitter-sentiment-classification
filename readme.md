@@ -52,11 +52,11 @@ Cada modelo fue entrenado y optimizado utilizando:
 A continuación se muestran algunas visualizaciones clave del análisis:
 
 ### Distribución de Polaridad
-![Distribución de Polaridad](Visualizaciones/distribucion_polaridad.JPG)
+![Distribución de Polaridad](distribucion_polaridad.JPG)
 *Distribución de los valores de polaridad en el conjunto de datos, mostrando la frecuencia de diferentes niveles de sentimiento.*
 
 ### Distribución de Sentimientos
-![Distribución de Sentimientos](Visualizaciones/distribucion_sentimientos.JPG)
+![Distribución de Sentimientos](distribucion_sentimientos.JPG)
 *Comparación de la frecuencia de tweets positivos, negativos y neutrales en el conjunto de datos.*
 
 Estas visualizaciones ayudan a entender la distribución de sentimientos en los datos y confirman el correcto funcionamiento de los modelos de clasificación implementados.
